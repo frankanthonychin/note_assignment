@@ -1,2 +1,9 @@
+## Prerequisite
+- have python 3.10.7 installed
+- use virtualenv is preferred
+
 # note_assignment
-- A note can consist of 0 or many tags.  - A note has title, description and tags.  - A tag has name.  - A note can be added, edited, retrieved and deleted.
+- A note can consist of 0 or many tags.
+- A note has title, description and tags.
+- A tag has name.
+- A note can be added, edited, retrieved and deleted.
